@@ -1,5 +1,5 @@
-Entrega: 
-Domingo 11:55pm
+Entrega: Domingo 12:00pm
+
 1.-Leer y realizar los ejemplos del  capitulo 1 y 2 de https://jakevdp.github.io/PythonDataScienceHandbook/index.html
 Hacer un notebook. 
 
